@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HarshRajGH/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/HarshRajGH/Leetcode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/HarshRajGH/Leetcode/tree/master/0263-ugly-number) |
+| [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/HarshRajGH/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
 | [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
 | [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
 ## String
 |  |
