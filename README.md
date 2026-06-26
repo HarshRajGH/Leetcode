@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/HarshRajGH/Leetcode/tree/master/0075-sort-colors) |
 | [0905-sort-array-by-parity](https://github.com/HarshRajGH/Leetcode/tree/master/0905-sort-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshRajGH/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 <!---LeetCode Topics End-->
