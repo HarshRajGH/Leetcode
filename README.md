@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/HarshRajGH/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshRajGH/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/HarshRajGH/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshRajGH/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/HarshRajGH/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3693-climbing-stairs-ii](https://github.com/HarshRajGH/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/HarshRajGH/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/HarshRajGH/Leetcode/tree/master/0242-valid-anagram) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshRajGH/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshRajGH/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2315-count-asterisks](https://github.com/HarshRajGH/Leetcode/tree/master/2315-count-asterisks) |
 | [2942-find-words-containing-character](https://github.com/HarshRajGH/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Bit Manipulation
