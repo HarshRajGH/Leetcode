@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HarshRajGH/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HarshRajGH/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
+| [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshRajGH/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshRajGH/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
 <!---LeetCode Topics End-->
