@@ -54,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/HarshRajGH/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
