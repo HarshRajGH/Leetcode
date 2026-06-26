@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HarshRajGH/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshRajGH/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/HarshRajGH/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/HarshRajGH/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/HarshRajGH/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
+| [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshRajGH/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarshRajGH/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshRajGH/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
+| [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/HarshRajGH/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
