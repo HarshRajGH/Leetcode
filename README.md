@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/HarshRajGH/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HarshRajGH/Leetcode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/HarshRajGH/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/HarshRajGH/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/HarshRajGH/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
@@ -121,9 +122,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/HarshRajGH/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/HarshRajGH/Leetcode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HarshRajGH/Leetcode/tree/master/0258-add-digits) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/HarshRajGH/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
