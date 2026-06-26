@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HarshRajGH/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshRajGH/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/HarshRajGH/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/HarshRajGH/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/HarshRajGH/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3693-climbing-stairs-ii](https://github.com/HarshRajGH/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -143,4 +144,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/HarshRajGH/Leetcode/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/HarshRajGH/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
