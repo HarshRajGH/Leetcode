@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/HarshRajGH/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshRajGH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
 | [3693-climbing-stairs-ii](https://github.com/HarshRajGH/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -30,5 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HarshRajGH/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
