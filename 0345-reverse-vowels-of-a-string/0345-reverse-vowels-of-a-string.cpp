@@ -1,23 +1,21 @@
 class Solution {
 public:
     string reverseVowels(string s) {
-        string vowels = "";
-        string lookup = "aeiouAEIOU";
-        
-        for (char c : s) {
-            if (lookup.find(c) != string::npos) {
-                vowels += c;
-            }
+        int i = 0, j = s.length() - 1;
+        bool v[256] = {false};
+        for (char c : "aeiouAEIOU") {
+            if (c) v[(unsigned char)c] = true;
         }
         
-        int v_index = vowels.length() - 1;
-        
-        for (int i = 0; i < s.length(); i++) {
-            if (lookup.find(s[i]) != string::npos) {
-                s[i] = vowels[v_index--];
+        while (i < j) {
+            if (!v[(unsigned char)s[i]]) {
+                i++;
+            } else if (!v[(unsigned char)s[j]]) {
+                j--;
+            } else {
+                swap(s[i++], s[j--]);
             }
         }
-        
         return s;
     }
 };
