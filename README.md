@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarshRajGH/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshRajGH/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/HarshRajGH/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HarshRajGH/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRajGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/HarshRajGH/Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/HarshRajGH/Leetcode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshRajGH/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshRajGH/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshRajGH/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/HarshRajGH/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/HarshRajGH/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HarshRajGH/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarshRajGH/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshRajGH/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
