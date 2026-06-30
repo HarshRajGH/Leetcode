@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/HarshRajGH/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/HarshRajGH/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/HarshRajGH/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HarshRajGH/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshRajGH/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/HarshRajGH/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/HarshRajGH/Leetcode/tree/master/0520-detect-capital) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshRajGH/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshRajGH/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/HarshRajGH/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/HarshRajGH/Leetcode/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1929-concatenation-of-array](https://github.com/HarshRajGH/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshRajGH/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
