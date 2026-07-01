@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/HarshRajGH/Leetcode/tree/master/0414-third-maximum-number) |
 | [0463-island-perimeter](https://github.com/HarshRajGH/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/HarshRajGH/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/HarshRajGH/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarshRajGH/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
+| [0525-contiguous-array](https://github.com/HarshRajGH/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/HarshRajGH/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/HarshRajGH/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Depth-First Search
