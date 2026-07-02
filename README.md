@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/HarshRajGH/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/HarshRajGH/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HarshRajGH/Leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/HarshRajGH/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HarshRajGH/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/HarshRajGH/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshRajGH/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRajGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/HarshRajGH/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/HarshRajGH/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HarshRajGH/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/HarshRajGH/Leetcode/tree/master/0217-contains-duplicate) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/HarshRajGH/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0463-island-perimeter](https://github.com/HarshRajGH/Leetcode/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
