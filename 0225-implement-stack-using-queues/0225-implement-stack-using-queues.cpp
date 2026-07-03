@@ -1,35 +1,32 @@
-#include <queue>
-
 class MyStack {
-private:
-    std::queue<int> q;
-
 public:
+    queue<int> q;
+
     MyStack() {
-        // Constructor doesn't need to do anything specifically
     }
-    
+
     void push(int x) {
         q.push(x);
-        int size = q.size();
-        
-        // Rotate the queue to make the new element the front
-        for (int i = 0; i < size - 1; ++i) {
+
+        int n = q.size();
+
+        while (n > 1) {
             q.push(q.front());
             q.pop();
+            n--;
         }
     }
-    
+
     int pop() {
-        int topElement = q.front();
+        int x = q.front();
         q.pop();
-        return topElement;
+        return x;
     }
-    
+
     int top() {
         return q.front();
     }
-    
+
     bool empty() {
         return q.empty();
     }
