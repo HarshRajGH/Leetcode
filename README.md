@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/HarshRajGH/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshRajGH/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshRajGH/Leetcode/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshRajGH/Leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/HarshRajGH/Leetcode/tree/master/0414-third-maximum-number) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HarshRajGH/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/HarshRajGH/Leetcode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/HarshRajGH/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/HarshRajGH/Leetcode/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshRajGH/Leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshRajGH/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Trie
 |  |
 | ------- |
