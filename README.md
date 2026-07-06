@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/HarshRajGH/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/HarshRajGH/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/HarshRajGH/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRajGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/HarshRajGH/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/HarshRajGH/Leetcode/tree/master/0066-plus-one) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRajGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/HarshRajGH/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRajGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HarshRajGH/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HarshRajGH/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HarshRajGH/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRajGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/HarshRajGH/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HarshRajGH/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/HarshRajGH/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/HarshRajGH/Leetcode/tree/master/0141-linked-list-cycle) |
