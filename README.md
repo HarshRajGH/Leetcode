@@ -216,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HarshRajGH/Leetcode/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/HarshRajGH/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/HarshRajGH/Leetcode/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/HarshRajGH/Leetcode/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -272,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshRajGH/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HarshRajGH/Leetcode/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HarshRajGH/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
