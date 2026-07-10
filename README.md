@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HarshRajGH/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/HarshRajGH/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshRajGH/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/HarshRajGH/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
 | [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Sliding Window
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/HarshRajGH/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/HarshRajGH/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshRajGH/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshRajGH/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshRajGH/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -342,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/HarshRajGH/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/HarshRajGH/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/HarshRajGH/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
