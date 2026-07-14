@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/HarshRajGH/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HarshRajGH/Leetcode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/HarshRajGH/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/HarshRajGH/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/HarshRajGH/Leetcode/tree/master/0507-perfect-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/HarshRajGH/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshRajGH/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/HarshRajGH/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
