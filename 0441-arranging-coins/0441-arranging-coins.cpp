@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int arrangeCoins(int n) {
+        long left = 0, right = n;
+        long maxRows = 0;
+        
+        while (left <= right) {
+            long mid = left + (right - left) / 2;
+            long coinsUsed = mid * (mid + 1) / 2;
+            
+            if (coinsUsed == n) {
+                return mid; 
+            } else if (coinsUsed < n) {
+                maxRows = mid; 
+                left = mid + 1;
+            } else {
+                right = mid - 1;
+            }
+        }
+        
+        return maxRows;
+    }
+};
