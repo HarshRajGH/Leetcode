@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/HarshRajGH/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/HarshRajGH/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/HarshRajGH/Leetcode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HarshRajGH/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HarshRajGH/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/HarshRajGH/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0400-nth-digit](https://github.com/HarshRajGH/Leetcode/tree/master/0400-nth-digit) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HarshRajGH/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
 | [0754-reach-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/0754-reach-a-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/HarshRajGH/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
