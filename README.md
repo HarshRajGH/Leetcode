@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/HarshRajGH/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshRajGH/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/HarshRajGH/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshRajGH/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0525-contiguous-array](https://github.com/HarshRajGH/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/HarshRajGH/Leetcode/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
 | [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HarshRajGH/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
