@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/HarshRajGH/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshRajGH/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/HarshRajGH/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HarshRajGH/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshRajGH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/HarshRajGH/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
