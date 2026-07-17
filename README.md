@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/HarshRajGH/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/HarshRajGH/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
+| [0740-delete-and-earn](https://github.com/HarshRajGH/Leetcode/tree/master/0740-delete-and-earn) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/HarshRajGH/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/HarshRajGH/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/HarshRajGH/Leetcode/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshRajGH/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/HarshRajGH/Leetcode/tree/master/0740-delete-and-earn) |
 | [1143-longest-common-subsequence](https://github.com/HarshRajGH/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/HarshRajGH/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HarshRajGH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/HarshRajGH/Leetcode/tree/master/0575-distribute-candies) |
 | [0705-design-hashset](https://github.com/HarshRajGH/Leetcode/tree/master/0705-design-hashset) |
+| [0740-delete-and-earn](https://github.com/HarshRajGH/Leetcode/tree/master/0740-delete-and-earn) |
 | [1512-number-of-good-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HarshRajGH/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Sliding Window
