@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshRajGH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshRajGH/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/HarshRajGH/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3693-climbing-stairs-ii](https://github.com/HarshRajGH/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Two Pointers
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/HarshRajGH/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/HarshRajGH/Leetcode/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/HarshRajGH/Leetcode/tree/master/0696-count-binary-substrings) |
+| [1143-longest-common-subsequence](https://github.com/HarshRajGH/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1773-count-items-matching-a-rule](https://github.com/HarshRajGH/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshRajGH/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshRajGH/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
