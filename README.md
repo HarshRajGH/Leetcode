@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HarshRajGH/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/HarshRajGH/Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/HarshRajGH/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HarshRajGH/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3693-climbing-stairs-ii](https://github.com/HarshRajGH/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/HarshRajGH/Leetcode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/HarshRajGH/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/HarshRajGH/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HarshRajGH/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshRajGH/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshRajGH/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/HarshRajGH/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/HarshRajGH/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Hash Table
 |  |
 | ------- |
