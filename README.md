@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/HarshRajGH/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshRajGH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/HarshRajGH/Leetcode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/HarshRajGH/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshRajGH/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/HarshRajGH/Leetcode/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/HarshRajGH/Leetcode/tree/master/0740-delete-and-earn) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HarshRajGH/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshRajGH/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshRajGH/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/HarshRajGH/Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/HarshRajGH/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/HarshRajGH/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshRajGH/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HarshRajGH/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshRajGH/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/HarshRajGH/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/HarshRajGH/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/HarshRajGH/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/HarshRajGH/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/HarshRajGH/Leetcode/tree/master/0520-detect-capital) |
